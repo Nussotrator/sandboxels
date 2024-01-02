@@ -1,0 +1,9 @@
+elements.sylveon powder = {
+  color: ["#ff91af","#ffffff"],
+  behavior: behaviors.POWDER,
+  category: "powders",
+  state: "solid",
+  density: 10,
+  burn: 0,
+  burnTime: 0,
+  burnInto: ["carbon_dioxide"],
